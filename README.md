@@ -1,1 +1,1 @@
-# Dynamic-Eyes
+# DynamicEyes
